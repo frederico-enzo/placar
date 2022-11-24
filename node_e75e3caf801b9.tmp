@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.conteiner-input-times{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.conteiner-input-times input{
+    width: 200px;
+    height: 50px;
+}
